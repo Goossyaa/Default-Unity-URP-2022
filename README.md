@@ -106,10 +106,10 @@ Updated title, description, changelog, assets list
 ### Removed 
 Hierarchy 2  
 
-
 Created a repository using the template https://github.com/Goossyaa/Default-Unity-URP-2021
+  
 ---
-
+  
 ## [0.1.2] — 2023-07-07
 
 ### Added
