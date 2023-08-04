@@ -1,22 +1,22 @@
-# Default Unity URP 2021
-Unity 2021.3.25f1
+# Default Unity URP 2022
+Unity 2022.3.6f1
   
 # Assets list
 ## Unity
-2D Animations - 7.0.10  
+2D Animations - 9.0.3  
 2D Sprite - 1.0.0  
-Animation Rigging - 1.1.1  
+Animation Rigging - 1.2.1  
 Burst - 1.8.2  
-Localization - 1.3.2  
+Localization - 1.4.4  
 Mathematics - 1.2.6  
-Cinemachine - 2.8.9  
+Cinemachine - 2.9.7  
 Post Processing - 3.2.2  
-Recorder - 3.0.3  
+Recorder - 4.0.1  
 Shader Graph - 12.1.10  
 TextMesh Pro - 3.0.6  
-Timeline - 1.6.4  
-Universal RP - 12.1.10  
-Visual Effect Graph - 12.1.10  
+Timeline - 1.7.5  
+Universal RP - 14.0.8  
+Visual Effect Graph - 14.0.8  
 Visual Scripting - 1.8.0  
   
 ## Third-party
@@ -27,15 +27,16 @@ Beautify 3 - 15.5
 DOTween Pro - 1.0.310  
 Feel - 3.5  
 FMOD  
-Rewired - 1.1.41.5 
+Rewired - 1.1.41.5  
 All Settings Pro - 1.0.5  
-Fast script reload - 1.5
-
+Fast script reload - 1.5  
+UModeler - 2.9.20  
+  
 ### Editor
 Build Report - 3.4.14  
 ConsolePro  
 Grabbit - 2021.0.8  
-Hierarchy 2  
+Hierarchy 4  
 Hierarchy Pro - Extended 2022.1.4  
 Shader Control - 6.2.1  
 SuperPivot  
@@ -83,7 +84,32 @@ Assets
 ```
 
 
+
 # Changelog
+## [0.1.3] — 2023-08-04
+
+### Added 
+Hierarchy 4  
+
+### Changed
+#### Unity
+Project version to 2022.3.6f1  
+
+Updated:  
+Cinemachine to 2.9.7  
+Version Control  
+Visual Studio Editor to 2.0.20  
+
+#### README.md
+Updated title, description, changelog, assets list
+
+### Removed 
+Hierarchy 2  
+
+
+Created a repository using the template https://github.com/Goossyaa/Default-Unity-URP-2021
+---
+
 ## [0.1.2] — 2023-07-07
 
 ### Added
